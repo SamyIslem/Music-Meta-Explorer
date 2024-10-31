@@ -25,14 +25,6 @@ class gestionTags:
             a = int(
                 input("Veuillez introduire une valeur comprise entre 1 et 5\n"))
 
-        # if (a == 5):
-        #     try:
-        #         x = int(input("veuillez intorduire la nouvelle valeur\n"))
-        #     except ValueError:
-        #         print(
-        #             "Oops!  Valeur non valide, la nouvelle valeur doit impérativement etre un entier.")
-        #         return
-
         else:
             x = input("veuillez intorduire la nouvelle valeur\n")
 
